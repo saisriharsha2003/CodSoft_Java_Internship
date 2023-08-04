@@ -1,4 +1,6 @@
 package Codesoft_Java_Internship.Task3_Student_Management_System;
+import Codesoft_Java_Internship.Task3_Student_Management_System.Student;
+import Codesoft_Java_Internship.Task3_Student_Management_System.StudentManagementSystem;
 
 import java.util.Scanner;
 
